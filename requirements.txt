@@ -1,0 +1,6 @@
+telethon
+request 
+asyncio
+os
+re
+random
